@@ -1,4 +1,6 @@
 # project
+## Name : Manoj M
+## Reg No : 212221240027
 ## Aim
 To write a python program using OpenCV to do the following image manipulations.
 i) Extract ROI from  an image.
